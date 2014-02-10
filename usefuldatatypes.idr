@@ -6,3 +6,5 @@ module UsefulDataTypes
 
 vec : (n ** Vect n Int)
 vec = ( _ ** [3,4])
+
+-- in tutorial code, we have a lot of stuff like Haskell...
